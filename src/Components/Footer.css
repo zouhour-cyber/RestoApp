@@ -1,0 +1,102 @@
+
+/*---------------------style footer----------------*/
+.bgfooter{
+    margin-bottom:0px;
+    background: black;
+    background-repeat: no-repeat;
+    background-position:top;
+    background-attachment: fixed;
+    padding:0rem 4rem;
+    background-size: cover;
+    min-height: 400px;
+    padding-top: 40px;
+    margin-top:20px;
+    color: white!important;
+}
+  
+.bgfooter h1, h5{
+  color:rgb(247, 225, 130)!important;
+}
+.bgfooter h6{
+  color:white;
+}
+  .bgfooter a{
+    text-decoration: none;
+    color: #bdbdbd;}
+  
+    #search-item{
+    
+      padding:1.3rem 2rem;
+     
+      background: rgba(34, 32, 32, 0.5) ;
+      border: none;
+      border:0.5px groove white;
+    
+    }
+  
+    #bs{
+      background: rgba(20, 19, 19, 0.5) ;
+      border: none;
+      border:0.5px groove white;
+    }
+  
+    #search-item:focus{
+      border:1px solid white;
+    }
+  
+
+
+
+.tiretbottom{
+    background-color:white !important;
+    height:3px;
+    width:4rem;
+    margin-bottom:1rem;
+  }
+  
+  
+  
+  
+  /*-style social links ----------*/
+  .footer-social-link {
+    margin-top:2rem;
+    margin-left:-6rem;
+  }
+  .footer-social-link ul {
+    list-style-type: none;}
+  .footer-social-link li {
+   
+  
+    display: inline-block; }
+  .footer-social-link a i {
+    width: 30px;
+    border-radius: 20%;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 10px;
+    color: white!important;
+    border: 1px solid white;
+  
+  }
+  
+  .footer-social-link a i.fa-facebook:hover{
+    background-color: #2149a0;
+    color:white;
+  }
+  .footer-social-link a i.fa-twitter:hover {
+    background-color: #55ACEE; 
+    color:white;
+  }
+  .footer-social-link a i.fa-youtube:hover {
+    background-color: #b12816; 
+    color:white;
+  }
+  .footer-social-link a i.fa-instagram:hover {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+    }
+  .footer-social-link a i.fa-instagram:hover {
+    background-color: #B7242A; 
+    color:white;}
+  
+  

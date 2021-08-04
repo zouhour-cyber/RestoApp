@@ -1,0 +1,75 @@
+/*--------------style banner home-------*/
+.banner{
+    background-image: url("../images/slider2-2.jpg") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top:0.8rem;
+    font-weight: 500;
+    position:relative;
+    min-height: 90vh;
+
+   }
+
+   .text-banner{
+    font-family:'Bebas Neue', cursive;
+    /* letter-spacing: .04em; */
+    font-size: 3.2rem;
+    font-weight:500;
+    padding-right:7rem;
+    color:white;
+
+  }
+   .max-height{
+     margin-top:10rem;
+     text-align: center;
+     
+   }
+
+   .nav.navbar.navbar-expand-lg{
+    background-color: rgb(19, 19, 19);
+    padding: 0.7rem 0rem;
+    color:white ;
+   }
+
+   .navbar-light .navbar-nav a{
+    color: white!important;
+    font-size: 1.1rem;
+    padding-right: 1.4rem;
+  }
+   a.navbar-brand{
+    color:rgb(247, 225, 130)!important;
+
+  }
+
+  .about{
+    background-image: url("../images/cover2.jpg") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:20vh;
+    font-weight: 500;
+    min-height:550px;
+
+  }
+
+
+  .Chef{
+    min-height:400px;
+    font-weight: 500;
+  }
+
+  .cheftext{
+    padding:20vh 10vh;
+    background-color: rgb(19, 19, 19);
+    
+  }
+
+  .cheftext h1, h6{
+    color:rgb(247, 225, 130);
+
+  }
+  .chefimg{
+    object-fit: cover;
+    height:85vh;
+  }
